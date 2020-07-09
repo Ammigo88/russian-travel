@@ -20,8 +20,3 @@
         margin: 0 auto;
     }
 }
-@media screen and (max-width: 320px) {
-    .intro {
-        margin: 0 16px;
-    }
-}

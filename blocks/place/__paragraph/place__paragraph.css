@@ -18,8 +18,8 @@
         font-size: 16px;
         line-height: 26px;
     }
-    .place__paragraph:last-of-type {
+    /* .place__paragraph:last-of-type {
         margin: 0 auto;
-    }
+    } */
     
 }

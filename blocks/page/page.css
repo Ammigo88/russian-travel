@@ -1,5 +1,7 @@
 @import url("./__container/page__container.css");
-
+/* * {
+  border: 1px solid red;
+} */
 .page {
     background: #2A2C2F;
     width: 100%;
